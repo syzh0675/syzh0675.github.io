@@ -8,7 +8,7 @@
       <link href="/2025/10/20/%E5%AE%89%E7%9F%A5%E9%B1%BC%E4%B8%BB%E9%A2%98%E9%9F%B3%E4%B9%90%E9%A6%86%E9%BB%98%E8%AE%A4%E6%AD%8C%E5%8D%95%E4%BF%AE%E6%94%B9/"/>
       <url>/2025/10/20/%E5%AE%89%E7%9F%A5%E9%B1%BC%E4%B8%BB%E9%A2%98%E9%9F%B3%E4%B9%90%E9%A6%86%E9%BB%98%E8%AE%A4%E6%AD%8C%E5%8D%95%E4%BF%AE%E6%94%B9/</url>
       
-        <content type="html"><![CDATA[<p>仅适用于hexo-theme-anzhiyu，其他请自行测试</p><p>打开博客根目录目录 依次打开 &#x2F;themes&#x2F;anzhiyu&#x2F;source&#x2F;js 里面有一个utils.js 打开它 按ctrl+f搜索 getCustomPlayList: function ()</p><p>文件参数是这样的 修改const userId &#x3D; 你歌单的id 如果想修改歌单音乐服务商就改const userServer &#x3D; netease或tencent或kugou,或xiami或 baidu 这样访问 &#x2F;music&#x2F;接可以了，不用在后面加?id&#x3D;歌单id&amp;server&#x3D;音乐服务商</p>]]></content>
+        <content type="html"><![CDATA[<p>仅适用于hexo-theme-anzhiyu，其他请自行测试</p><p>打开博客根目录目录 依次打开 &#x2F;themes&#x2F;anzhiyu&#x2F;source&#x2F;js 里面有一个utils.js 打开它 按ctrl+f搜索 getCustomPlayList: function ()</p><p><img src="https://blogpng.fishcpy.top/mengmengmao/2024/12/14/675d0caa60c94.png" alt="打开博客根目录目录 依次打开 &#x2F;themes&#x2F;anzhiyu&#x2F;source&#x2F;js 里面有一个utils.js 打开它 按ctrl+f搜索 getCustomPlayList: function ()" title="音乐馆播放更改"></p><p>文件参数是这样的 修改const userId &#x3D; 你歌单的id 如果想修改歌单音乐服务商就改const userServer &#x3D; netease或tencent或kugou,或xiami或 baidu 这样访问 &#x2F;music&#x2F;接可以了，不用在后面加?id&#x3D;歌单id&amp;server&#x3D;音乐服务商</p>]]></content>
       
       
       <categories>
