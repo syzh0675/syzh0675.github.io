@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>群晖搭建电影网站</title>
+      <link href="/2025/10/21/%E7%BE%A4%E6%99%96%E6%90%AD%E5%BB%BA%E7%94%B5%E5%BD%B1%E7%BD%91%E7%AB%99/"/>
+      <url>/2025/10/21/%E7%BE%A4%E6%99%96%E6%90%AD%E5%BB%BA%E7%94%B5%E5%BD%B1%E7%BD%91%E7%AB%99/</url>
+      
+        <content type="html"><![CDATA[<div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网络 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 群晖nas </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>安知鱼主题音乐馆默认歌单修改</title>
       <link href="/2025/10/20/%E5%AE%89%E7%9F%A5%E9%B1%BC%E4%B8%BB%E9%A2%98%E9%9F%B3%E4%B9%90%E9%A6%86%E9%BB%98%E8%AE%A4%E6%AD%8C%E5%8D%95%E4%BF%AE%E6%94%B9/"/>
       <url>/2025/10/20/%E5%AE%89%E7%9F%A5%E9%B1%BC%E4%B8%BB%E9%A2%98%E9%9F%B3%E4%B9%90%E9%A6%86%E9%BB%98%E8%AE%A4%E6%AD%8C%E5%8D%95%E4%BF%AE%E6%94%B9/</url>
