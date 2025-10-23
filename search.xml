@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>无需公网IP！CloudFlare Tunnel内网穿透实现内网访问</title>
+      <link href="/2025/10/23/%E6%97%A0%E9%9C%80%E5%85%AC%E7%BD%91IP%EF%BC%81CloudFlare-Tunnel%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E5%AE%9E%E7%8E%B0%E5%86%85%E7%BD%91%E8%AE%BF%E9%97%AE/"/>
+      <url>/2025/10/23/%E6%97%A0%E9%9C%80%E5%85%AC%E7%BD%91IP%EF%BC%81CloudFlare-Tunnel%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E5%AE%9E%E7%8E%B0%E5%86%85%E7%BD%91%E8%AE%BF%E9%97%AE/</url>
+      
+        <content type="html"><![CDATA[<div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>群晖DSM利用webstation部署h5ai</title>
       <link href="/2025/10/23/%E7%BE%A4%E6%99%96DSM%E5%88%A9%E7%94%A8webstation%E9%83%A8%E7%BD%B2h5ai-1761201936096/"/>
       <url>/2025/10/23/%E7%BE%A4%E6%99%96DSM%E5%88%A9%E7%94%A8webstation%E9%83%A8%E7%BD%B2h5ai-1761201936096/</url>
@@ -42,31 +55,6 @@
           
       </categories>
       
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>群晖搭建电影网站</title>
-      <link href="/2025/10/21/%E7%BE%A4%E6%99%96%E6%90%AD%E5%BB%BA%E7%94%B5%E5%BD%B1%E7%BD%91%E7%AB%99/"/>
-      <url>/2025/10/21/%E7%BE%A4%E6%99%96%E6%90%AD%E5%BB%BA%E7%94%B5%E5%BD%B1%E7%BD%91%E7%AB%99/</url>
-      
-        <content type="html"><![CDATA[<div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
-      
-      
-      <categories>
-          
-          <category> 网络 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> nas </tag>
-            
-        </tags>
       
     </entry>
     
